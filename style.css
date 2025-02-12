@@ -22,7 +22,7 @@ body{
     transform: translate(-50%, -50%);
     width: 320px;
     border-radius: 12px;
-    background-color: #1a1a1a;
+    background-color: rgb(26,29,29);
     overflow: hidden;
     padding: 20px 15px;
 }
@@ -37,8 +37,8 @@ body{
 }
 input{
     outline:  none;
-    border: 1px solid rgb(43, 43, 43);
-    background-color: rgb(43, 43, 43);
+    border: 1px solid rgb(43, 48, 48);
+    background-color: rgb(43, 48, 48);
     padding: 16px 24px;
     border-radius: 6px;
     color: rgb(200, 198, 198);
@@ -73,8 +73,8 @@ input{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid  rgb(43, 43, 43);
-    background-color:  rgb(43, 43, 43);
+    border: 1px solid  rgb(43, 48, 48);
+    background-color:  rgb(43, 48, 48);
     border-radius: 6px;
     font-size: 16px;
     padding: 0px 15px;
